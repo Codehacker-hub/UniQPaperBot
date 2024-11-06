@@ -52,4 +52,3 @@ This project is licensed under the MIT License.
 ### Key Points:
 - Replace `your-username`, `your-bot-token-here`, `your-portfolio-link`, and `your-telegram-link` with the appropriate values.
 - This markdown file will render well on GitHub with headings, lists, and links for easy navigation.
-
