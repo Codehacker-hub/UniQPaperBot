@@ -5,7 +5,6 @@ __pycache__/
 
 # Ignore environment and database files
 .env
-pdf_files.db
 
 # Ignore logs and other temporary files
 *.log
