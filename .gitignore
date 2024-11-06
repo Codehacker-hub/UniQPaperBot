@@ -1,0 +1,12 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment and database files
+.env
+pdf_files.db
+
+# Ignore logs and other temporary files
+*.log
+*.sqlite3
